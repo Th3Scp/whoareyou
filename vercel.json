@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "name": "vercel-xhttp-relay",
+  "name": "myapp",
   "functions": {
     "api/index.js": {
       "memory": 512,
